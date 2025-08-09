@@ -2,6 +2,7 @@
 웹 제작 프로젝트
 
 # FE 구조
+```
 FE
 ├── public
 │   ├── favicon.ico
@@ -57,3 +58,4 @@ FE
     ├── styles
     ├── types
     └── vite-env.d.ts
+```
