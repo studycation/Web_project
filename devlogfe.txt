@@ -50,3 +50,4 @@ Common_Button.tsx에 props로 감싸주어 이걸 import만 하면 어디서든�
 <CommonBtn>프로필 수정</CommonBtn> 가능!
 
 4.0. 게임 리스트 페이지 생성 및 구현. 
+4.1. 소셜 계정 연동 완료.
